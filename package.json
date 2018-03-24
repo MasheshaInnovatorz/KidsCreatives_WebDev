@@ -18,6 +18,8 @@
     "angular-aria": "^1.6.9",
     "angular-material": "^1.1.8",
     "angular-messages": "^1.6.9",
+    "angularfire": "^2.3.0",
+    "firebase": "^4.12.0",
     "mdi": "^2.1.99"
   }
 }
